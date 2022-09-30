@@ -1,0 +1,24 @@
+
+.hello{
+    width: 100%;
+    height: 8vh;
+    padding: 10px 20px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 6px 14px;
+
+}
+.unlixt{
+  display: flex;
+  list-style: none;
+ 
+}
+.unlixt li{
+    margin: 2px 10px;
+    font-size: 14px;
+  
+
+}
+.parent{
+    font-size: 15px;
+    font-weight: bold;
+  margin: 0 20px;
+}
